@@ -1,0 +1,10 @@
+C:\Users\luka\source\repos\Sortiranje vozila\bin\Debug\Sortiranje vozila.exe.config
+C:\Users\luka\source\repos\Sortiranje vozila\bin\Debug\Sortiranje vozila.exe
+C:\Users\luka\source\repos\Sortiranje vozila\bin\Debug\Sortiranje vozila.pdb
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje vozila.csproj.AssemblyReference.cache
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje_vozila.Form1.resources
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje_vozila.Properties.Resources.resources
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje vozila.csproj.GenerateResource.cache
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje vozila.csproj.CoreCompileInputs.cache
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje vozila.exe
+C:\Users\luka\source\repos\Sortiranje vozila\obj\Debug\Sortiranje vozila.pdb
